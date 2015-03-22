@@ -54,11 +54,11 @@ performed to clean up the original data set.
 
 ## Values in the measurement column
 
-1. Name: meanvalueoflinearbodyaccelerationonaxisx
+1. meanvalueoflinearbodyaccelerationonaxisx
    * Raw data variable: tBodyAcc-mean()-X
    * Description: the mean value of the linear body motion component of acceleration in direction of axis X
 
-2. Name: meanvalueoflinearbodyaccelerationonaxisy
+2. meanvalueoflinearbodyaccelerationonaxisy
    * Raw data variable: tBodyAcc-mean()-Y
    * Description: the mean value of the linear body motion component of acceleration in direction of axis Y
 
