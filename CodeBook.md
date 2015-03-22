@@ -62,261 +62,261 @@ performed to clean up the original data set.
    * Raw data variable: tBodyAcc-mean()-Y
    * Description: the mean value of the linear body motion component of acceleration in direction of axis Y
 
-   * Name: meanvalueoflinearbodyaccelerationonaxisz
+3. meanvalueoflinearbodyaccelerationonaxisz
    * Raw data variable: tBodyAcc-mean()-Z
    * Description: the mean value of the linear body motion component of acceleration in direction of axis Z
 
-   * Name: meanvalueofgravityonaxisx
+4. meanvalueofgravityonaxisx
    * Raw data variable: tGravityAcc-mean()-X
    * Description: the mean value of the gravity component of acceleration in direction of axis X
 
-   * Name: meanvalueofgravityonaxisy
+5. meanvalueofgravityonaxisy
    * Raw data variable: tGravityAcc-mean()-Y
    * Description: the mean value of the gravity component of acceleration in direction of axis Y
 
-   * Name: meanvalueofgravityonaxisz
+6. meanvalueofgravityonaxisz
    * Raw data variable: tGravityAcc-mean()-Z
    * Description: the mean value of the gravity component of acceleration in direction of axis Z
 
-   * Name: meanvalueoflinearjerksignalonaxisx
+7. meanvalueoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-mean()-X
    * Description: the mean value of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis X
 
-   * Name: meanvalueoflinearjerksignalonaxisx
+8. meanvalueoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-mean()-Y
    * Description: the mean value of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis Y
 
-   * Name: meanvalueoflinearjerksignalonaxisx
+9. meanvalueoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-mean()-Z
    * Description: the mean value of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis Z
 
-   * Name: meanvalueofangularbodyaccelerationonaxisx
+10. meanvalueofangularbodyaccelerationonaxisx
    * Raw data variable: tBodyGyro-mean()-X
    * Description: the mean value of the angular  body motion component of acceleration in direction of axis X
 
-   * Name: meanvalueofangularbodyaccelerationonaxisy
+11. meanvalueofangularbodyaccelerationonaxisy
    * Raw data variable: tBodyGyro-mean()-Y
    * Description: the mean value of the angular  body motion component of acceleration in direction of axis Y
 
-   * Name: meanvalueofangularbodyaccelerationonaxisz
+12. meanvalueofangularbodyaccelerationonaxisz
    * Raw data variable: tBodyGyro-mean()-Z
    * Description: the mean value of the angular  body motion component of acceleration in direction of axis Z
 
-   * Name: meanvalueofangularjerksignalonaxisx
+13. meanvalueofangularjerksignalonaxisx
    * Raw data variable: tBodyGyroJerk-mean()-X
    * Description: the mean value of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis X
 
-   * Name: meanvalueofangularjerksignalonaxisy
+14. meanvalueofangularjerksignalonaxisy
    * Raw data variable: tBodyGyroJerk-mean()-Y
    * Description: the mean value of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis Y
 
-   * Name: meanvalueofangularjerksignalonaxisz
+15. meanvalueofangularjerksignalonaxisz
    * Raw data variable: tBodyGyroJerk-mean()-Z
    * Description: the mean value of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis Z
 
-   * Name: meanvalueoflinearbodyaccelerationmagnitude
+16. meanvalueoflinearbodyaccelerationmagnitude
    * Raw data variable: tBodyAccMag-mean()
    * Description: the mean value of the euclidean magnitude of the linear body motion component of acceleration
 
-   * Name: meanvalueofgravitymagnitude
+17. meanvalueofgravitymagnitude
    * Raw data variable: tGravityAccMag-mean()
    * Description: the mean value of the euclidean magnitude of the gravity component of acceleration
 
-   * Name: meanvalueoflinearjerksignalmagnitude
+18. meanvalueoflinearjerksignalmagnitude
    * Raw data variable: tBodyAccJerkMag-mean()
    * Description: the mean value of the euclidean magnitude of the time derivative (da/dt=jerk) of the linear body motion component of acceleration
 
-   * Name: meanvalueofangularbodyaccelerationmagnitude
+19. meanvalueofangularbodyaccelerationmagnitude
    * Raw data variable: tBodyGyroMag-mean()
    * Description: the mean value of the euclidean magnitude of the angular  body motion component of acceleration
 
-   * Name: meanvalueofangularjerksignalmagnitude
+20. meanvalueofangularjerksignalmagnitude
    * Raw data variable: tBodyGyroJerkMag-mean()
    * Description: the mean value of the euclidean magnitude of the time derivative (dw/dt) of the angular body motion component of acceleration
 
-   * Name: meanvalueoffrequencyoflinearbodyaccelerationonaxisx
+21. meanvalueoffrequencyoflinearbodyaccelerationonaxisx
    * Raw data variable: fBodyAcc-mean()-X
-   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearbodyaccelerationonaxisy
+22. meanvalueoffrequencyoflinearbodyaccelerationonaxisy
    * Raw data variable: fBodyAcc-mean()-Y
-   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearbodyaccelerationonaxisz
+23. meanvalueoffrequencyoflinearbodyaccelerationonaxisz
    * Raw data variable: fBodyAcc-mean()-Z
-   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearjerksignalonaxisx
+24. meanvalueoffrequencyoflinearjerksignalonaxisx
    * Raw data variable: fBodyAccJerk-mean()-X
-   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearjerksignalonaxisy
+25. meanvalueoffrequencyoflinearjerksignalonaxisy
    * Raw data variable: fBodyAccJerk-mean()-Y
-   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearjerksignalonaxisz
+26. meanvalueoffrequencyoflinearjerksignalonaxisz
    * Raw data variable: fBodyAccJerk-mean()-Z
-   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyofangularbodyaccelerationonaxisx
+27. meanvalueoffrequencyofangularbodyaccelerationonaxisx
    * Raw data variable: fBodyGyro-mean()-X
-   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyofangularbodyaccelerationonaxisy
+28. meanvalueoffrequencyofangularbodyaccelerationonaxisy
    * Raw data variable: fBodyGyro-mean()-Y
-   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyofangularbodyaccelerationonaxisz
+29. meanvalueoffrequencyofangularbodyaccelerationonaxisz
    * Raw data variable: fBodyGyro-mean()-Z
-   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of angular body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearbodyaccelerationmagnitude
+30. meanvalueoffrequencyoflinearbodyaccelerationmagnitude
    * Raw data variable: fBodyAccMag-mean()
-   * Description: the mean value of the frequency of the euclidean magnitude of the linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the euclidean magnitude of the linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyoflinearjerksignalmagnitude
+31. meanvalueoffrequencyoflinearjerksignalmagnitude
    * Raw data variable: fBodyBodyAccJerkMag-mean()
-   * Description: the mean value of the frequency of the euclidean magnitude of the time derivative (da/dt=jerk) of linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the euclidean magnitude of the time derivative (da/dt=jerk) of linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyofangularbodyaccelerationmagnitude
+32. meanvalueoffrequencyofangularbodyaccelerationmagnitude
    * Raw data variable: fBodyBodyGyroMag-mean()
-   * Description: the mean value of the frequency  of the euclidean magnitude of the angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency  of the euclidean magnitude of the angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: meanvalueoffrequencyofangularjerksignalmagnitude
+33. meanvalueoffrequencyofangularjerksignalmagnitude
    * Raw data variable: fBodyBodyGyroJerkMag-mean()
-   * Description: the mean value of the frequency of the euclidean magnitude of the time derivative (dw/dt) of angular body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the mean value of the frequency of the euclidean magnitude of the time derivative (dw/dt) of angular body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoflinearbodyaccelerationonaxisx
+34. standarddeviationoflinearbodyaccelerationonaxisx
    * Raw data variable: tBodyAcc-std()-X
    * Description: the standard deviation of the linear body motion component of acceleration in direction of axis X
 
-   * Name: standarddeviationoflinearbodyaccelerationonaxisy
+35. standarddeviationoflinearbodyaccelerationonaxisy
    * Raw data variable: tBodyAcc-std()-Y
    * Description: the standard deviation of the linear body motion component of acceleration in direction of axis Y
 
-   * Name: standarddeviationoflinearbodyaccelerationonaxisz
+36. standarddeviationoflinearbodyaccelerationonaxisz
    * Raw data variable: tBodyAcc-std()-Z
    * Description: the standard deviation of the linear body motion component of acceleration in direction of axis Z
 
-   * Name: standarddeviationofgravityonaxisx
+37. standarddeviationofgravityonaxisx
    * Raw data variable: tGravityAcc-std()-X
    * Description: the standard deviation of the gravity component of acceleration in direction of axis X
 
-   * Name: standarddeviationofgravityonaxisy
+38. standarddeviationofgravityonaxisy
    * Raw data variable: tGravityAcc-std()-Y
    * Description: the standard deviation of the gravity component of acceleration in direction of axis Y
 
-   * Name: standarddeviationofgravityonaxisz
+39. standarddeviationofgravityonaxisz
    * Raw data variable: tGravityAcc-std()-Z
    * Description: the standard deviation of the gravity component of acceleration in direction of axis Z
 
-   * Name: standarddeviationoflinearjerksignalonaxisx
+40. standarddeviationoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-std()-X
    * Description: the standard deviation of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis X
 
-   * Name: standarddeviationoflinearjerksignalonaxisx
+41. standarddeviationoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-std()-Y
    * Description: the standard deviation of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis Y
 
-   * Name: standarddeviationoflinearjerksignalonaxisx
+42. standarddeviationoflinearjerksignalonaxisx
    * Raw data variable: tBodyAccJerk-std()-Z
    * Description: the standard deviation of the time derivative (da/dt=jerk) of the linear body motion component of acceleration in direction of axis Z
 
-   * Name: standarddeviationofangularbodyaccelerationonaxisx
+43. standarddeviationofangularbodyaccelerationonaxisx
    * Raw data variable: tBodyGyro-std()-X
    * Description: the standard deviation of the angular  body motion component of acceleration in direction of axis X
 
-   * Name: standarddeviationofangularbodyaccelerationonaxisy
+44. standarddeviationofangularbodyaccelerationonaxisy
    * Raw data variable: tBodyGyro-std()-Y
    * Description: the standard deviation of the angular  body motion component of acceleration in direction of axis Y
 
-   * Name: standarddeviationofangularbodyaccelerationonaxisz
+45. standarddeviationofangularbodyaccelerationonaxisz
    * Raw data variable: tBodyGyro-std()-Z
    * Description: the standard deviation of the angular  body motion component of acceleration in direction of axis Z
 
-   * Name: standarddeviationofangularjerksignalonaxisx
+46. standarddeviationofangularjerksignalonaxisx
    * Raw data variable: tBodyGyroJerk-std()-X
    * Description: the standard deviation of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis X
 
-   * Name: standarddeviationofangularjerksignalonaxisy
+47. standarddeviationofangularjerksignalonaxisy
    * Raw data variable: tBodyGyroJerk-std()-Y
    * Description: the standard deviation of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis Y
 
-   * Name: standarddeviationofangularjerksignalonaxisz
+48. standarddeviationofangularjerksignalonaxisz
    * Raw data variable: tBodyGyroJerk-std()-Z
    * Description: the standard deviation of the time derivative (dw/dt) of the angular body motion component of acceleration in direction of axis Z
 
-   * Name: standarddeviationoflinearbodyaccelerationmagnitude
+49. standarddeviationoflinearbodyaccelerationmagnitude
    * Raw data variable: tBodyAccMag-std()
    * Description: the standard deviation of the euclidean magnitude of the linear body motion component of acceleration
 
-   * Name: standarddeviationofgravitymagnitude
+50. standarddeviationofgravitymagnitude
    * Raw data variable: tGravityAccMag-std()
    * Description: the standard deviation of the euclidean magnitude of the gravity component of acceleration
 
-   * Name: standarddeviationoflinearjerksignalmagnitude
+51. standarddeviationoflinearjerksignalmagnitude
    * Raw data variable: tBodyAccJerkMag-std()
    * Description: the standard deviation of the euclidean magnitude of the time derivative (da/dt=jerk) of the linear body motion component of acceleration
 
-   * Name: standarddeviationofangularbodyaccelerationmagnitude
+52. standarddeviationofangularbodyaccelerationmagnitude
    * Raw data variable: tBodyGyroMag-std()
    * Description: the standard deviation of the euclidean magnitude of the angular  body motion component of acceleration
 
-   * Name: standarddeviationofangularjerksignalmagnitude
+53. standarddeviationofangularjerksignalmagnitude
    * Raw data variable: tBodyGyroJerkMag-std()
    * Description: the standard deviation of the euclidean magnitude of the time derivative (dw/dt) of the angular body motion component of acceleration
 
-   * Name: standarddeviationoffrequencyoflinearbodyaccelerationonaxisx
+54. standarddeviationoffrequencyoflinearbodyaccelerationonaxisx
    * Raw data variable: fBodyAcc-std()-X
-   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearbodyaccelerationonaxisy
+55. standarddeviationoffrequencyoflinearbodyaccelerationonaxisy
    * Raw data variable: fBodyAcc-std()-Y
-   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearbodyaccelerationonaxisz
+56. standarddeviationoffrequencyoflinearbodyaccelerationonaxisz
    * Raw data variable: fBodyAcc-std()-Z
-   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearjerksignalonaxisx
+57. standarddeviationoffrequencyoflinearjerksignalonaxisx
    * Raw data variable: fBodyAccJerk-std()-X
-   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearjerksignalonaxisy
+58. standarddeviationoffrequencyoflinearjerksignalonaxisy
    * Raw data variable: fBodyAccJerk-std()-Y
-   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearjerksignalonaxisz
+59. standarddeviationoffrequencyoflinearjerksignalonaxisz
    * Raw data variable: fBodyAccJerk-std()-Z
-   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the time derivative (da/dt=jerk) of linear body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyofangularbodyaccelerationonaxisx
+60. standarddeviationoffrequencyofangularbodyaccelerationonaxisx
    * Raw data variable: fBodyGyro-std()-X
-   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyofangularbodyaccelerationonaxisy
+61. standarddeviationoffrequencyofangularbodyaccelerationonaxisy
    * Raw data variable: fBodyGyro-std()-Y
-   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis Y. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyofangularbodyaccelerationonaxisz
+62. standarddeviationoffrequencyofangularbodyaccelerationonaxisz
    * Raw data variable: fBodyGyro-std()-Z
-   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of angular body motion component of acceleration in direction of axis Z. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearbodyaccelerationmagnitude
+63. standarddeviationoffrequencyoflinearbodyaccelerationmagnitude
    * Raw data variable: fBodyAccMag-std()
-   * Description: the standard deviation of the frequency of the euclidean magnitude of the linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the euclidean magnitude of the linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyoflinearjerksignalmagnitude
+64. standarddeviationoffrequencyoflinearjerksignalmagnitude
    * Raw data variable: fBodyBodyAccJerkMag-std()
-   * Description: the standard deviation of the frequency of the euclidean magnitude of the time derivative (da/dt=jerk) of linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the euclidean magnitude of the time derivative (da/dt=jerk) of linear body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyofangularbodyaccelerationmagnitude
+65. standarddeviationoffrequencyofangularbodyaccelerationmagnitude
    * Raw data variable: fBodyBodyGyroMag-std()
-   * Description: the standard deviation of the frequency  of the euclidean magnitude of the angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency  of the euclidean magnitude of the angular body motion component of acceleration in direction of axis X. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
-   * Name: standarddeviationoffrequencyofangularjerksignalmagnitude
+66. standarddeviationoffrequencyofangularjerksignalmagnitude
    * Raw data variable: fBodyBodyGyroJerkMag-std()
-   * Description: the standard deviation of the frequency of the euclidean magnitude of the time derivative (dw/dt) of angular body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a  Fast Fourier Transform (FFT)
+   * Description: the standard deviation of the frequency of the euclidean magnitude of the time derivative (dw/dt) of angular body motion component of acceleration. The signal was mapped from the time domain to frequncy domain  through a Fast Fourier Transform (FFT)
 
    For more information regarding the measurements made and raw data 
    collection please see the publication describing this experiment and the 
