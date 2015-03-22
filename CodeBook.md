@@ -57,11 +57,11 @@ performed to clean up the original data set.
    * Name: meanvalueoflinearbodyaccelerationonaxisx
    * Raw data variable: tBodyAcc-mean()-X
    * Description: the mean value of the linear body motion component of acceleration in direction of axis X
-
+   
    * Name: meanvalueoflinearbodyaccelerationonaxisy
    * Raw data variable: tBodyAcc-mean()-Y
    * Description: the mean value of the linear body motion component of acceleration in direction of axis Y
-
+   
    * Name: meanvalueoflinearbodyaccelerationonaxisz
    * Raw data variable: tBodyAcc-mean()-Z
    * Description: the mean value of the linear body motion component of acceleration in direction of axis Z
