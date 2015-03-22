@@ -16,9 +16,9 @@ be run in any directory on your computer.
 In order to run, the script requires that in addition to R-base, the plyr, 
 tidyr, and dplyr packages to be installed. These packages can be installed
 using the command
-
+```
 install.packages("plyr", "tidyr", "dplyr")
-
+```
 ## Functionality
 
 The script performs the following operations:
