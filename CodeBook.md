@@ -54,25 +54,25 @@ performed to clean up the original data set.
 
 ## Values in the measurement column
 
-Name: meanvalueoflinearbodyaccelerationonaxisx
-Raw data variable: tBodyAcc-mean()-X
-Description: the mean value of the linear body motion component of acceleration in direction of axis X
+   * Name: meanvalueoflinearbodyaccelerationonaxisx
+   ** Raw data variable: tBodyAcc-mean()-X
+   ** Description: the mean value of the linear body motion component of acceleration in direction of axis X
 
-Name: meanvalueoflinearbodyaccelerationonaxisy
-Raw data variable: tBodyAcc-mean()-Y
-Description: the mean value of the linear body motion component of acceleration in direction of axis Y
+   * Name: meanvalueoflinearbodyaccelerationonaxisy
+   * Raw data variable: tBodyAcc-mean()-Y
+   * Description: the mean value of the linear body motion component of acceleration in direction of axis Y
 
-Name: meanvalueoflinearbodyaccelerationonaxisz
-Raw data variable: tBodyAcc-mean()-Z
-Description: the mean value of the linear body motion component of acceleration in direction of axis Z
+   * Name: meanvalueoflinearbodyaccelerationonaxisz
+   * Raw data variable: tBodyAcc-mean()-Z
+   * Description: the mean value of the linear body motion component of acceleration in direction of axis Z
 
-Name: meanvalueofgravityonaxisx
-Raw data variable: tGravityAcc-mean()-X
-Description: the mean value of the gravity component of acceleration in direction of axis X
+   * Name: meanvalueofgravityonaxisx
+   * Raw data variable: tGravityAcc-mean()-X
+   * Description: the mean value of the gravity component of acceleration in direction of axis X
 
-Name: meanvalueofgravityonaxisy
-Raw data variable: tGravityAcc-mean()-Y
-Description: the mean value of the gravity component of acceleration in direction of axis Y
+   * Name: meanvalueofgravityonaxisy
+   * Raw data variable: tGravityAcc-mean()-Y
+   * Description: the mean value of the gravity component of acceleration in direction of axis Y
 
    * Name: meanvalueofgravityonaxisz
    * Raw data variable: tGravityAcc-mean()-Z
